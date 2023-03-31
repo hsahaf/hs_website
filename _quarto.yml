@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - portfolio.qmd
-      - href: Cybersecurity Resume_HS
+      - href: Cybersecurity Resume_HS.pdf
         text: CV
 
 format:
