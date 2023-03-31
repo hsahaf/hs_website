@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "About",
-    "section": "",
-    "text": "Some of the data science projects that I have completed include:\n\nToronto Homeless Shelter Data, which is an R package about Homeless shelter data in the city of Toronto"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Huda Sahaf",
     "section": "",
     "text": "I am a third-year Bachelor of Information student at the university of Toronto. An emerging cyber security analyst. Critical thinker. Adaptable trouble-shooter. A data-driven mitigator of security risk through policy assessments and best practices. Passionate about data security and preserving the user’s right to privacy."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "About",
+    "section": "",
+    "text": "Some of the data science projects that I have completed include:\n\nToronto Homeless Shelter Data, which is an R package about Homeless shelter data in the city of Toronto"
   }
 ]
